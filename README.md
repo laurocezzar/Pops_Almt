@@ -1,2 +1,0 @@
-# Formatação de Computador
-
