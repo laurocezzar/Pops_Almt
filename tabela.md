@@ -1,3 +1,8 @@
+<details>
+  <summary>Alguns detalhes</summary>
+  <p>Mais informações sobre os detalhes.</p>
+</details>
+
 | Persona     | Tipo	      | Data Fixtures |
 |:----------: |:----------: |:-------------:|
 |&#9745;fdvfdv | fgfdgfdgfdg | teste        |
